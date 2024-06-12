@@ -6,7 +6,9 @@
 4. Chart.js v3.9.1
 5. Animate.css 4.1.1
 
-6. Create a virtual environment and activate it (Windows)
+Download python and install it. The moment you start installation process make sure to accept the add path in the two options you see:
+https://www.python.org/downloads/
+0. Create a virtual environment and activate it (Windows)
 
 ```bash
 python -m venv env
